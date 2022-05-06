@@ -1,2 +1,6 @@
-# prog1400-assignment-template
-A basic project with a README file and .gitignore
+Tournament of Champions
+1 player against 9 enemies
+Random generated health and weapons
+Round Robin
+Semi Finals
+Finals
